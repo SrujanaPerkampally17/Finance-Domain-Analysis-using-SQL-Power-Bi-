@@ -6,10 +6,15 @@ This project delivers a Bank Loan Data Analytics Dashboard that enables financia
 🔑 Key Insights & KPIs
 
 📌 Total Loan Applications: 38.6K (MTD: 4.3K | MoM: 6.9%)
+
 💰 Total Funded Amount: $435.8M (MTD: $54M | MoM: 13%)
+
 💵 Total Amount Received: $473.1M (MTD: $58.1M | MoM: 15.8%)
+
 📊 Average Interest Rate: 12.0% (MTD: 12.4% | MoM: 3.5%)
+
 📉 Average Debt-to-Income (DTI) Ratio: 13.3% (MTD: 13.7% | MoM: 2.7%)
+
 ✔️ Good Loan Ratio: 86.2% | ⚠️ Bad Loan Ratio: 13.8%
 
 🏦 Dashboard Features
