@@ -35,6 +35,7 @@ My dashboard focuses on the following key performance indicators (KPIs):
 These insights empower decision-makers to assess profitability, manage risk, and improve financial stability.  
 
 ---
+Sneak Peek : 
 ![Image](https://github.com/user-attachments/assets/3cdd4914-0505-4106-ba0f-cd4adba3a6b2)
 
 
